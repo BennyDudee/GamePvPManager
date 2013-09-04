@@ -1,0 +1,4 @@
+GamePvPManager
+==============
+
+GameManager for PvP.
